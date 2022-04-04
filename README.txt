@@ -1,4 +1,7 @@
-				ABOUT THE PROJECT
+Copyright: Prashanth M Namadev
+Year: 2000
+
+ABOUT THE PROJECT
 
 The Project we have developed is a data base project based on the operation of a airline company called Havi Airways Intl.(HAI). It commenced its operation in Jan 1988 with solitary Boeing 707, ferrying passengers between Delhi and Mumbai twice a week. A total commitment to quality in terms of customers satisfactory enabled HAI to earn prestigious National Service Excellence award and also a respectable profit of Rs.3 million in its very first year of operation.
 
